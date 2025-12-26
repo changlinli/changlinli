@@ -10,7 +10,3 @@ At the moment, relevant to things on GitHub, I'm studying:
 
 1. Mechanistic interpretability for AI
 2. Proving things using formal proof assistants
-
-And as some fun side projects:
-
-1. Working on a fork of the Elm compiler
